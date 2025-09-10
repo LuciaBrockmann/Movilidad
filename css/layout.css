@@ -1,0 +1,16 @@
+:root {
+    --bg-color: #272c18;
+    --accent-color: #bdc092;
+    --text-color: #e6e6e6;
+}
+body {
+    font-family: "stevie-sans", sans-serif;
+}
+h1, h2, h3, h4, h5 {
+    font-family: "medusa", sans-serif;
+}
+.nav-link{
+    background-color: var(--accent-color);
+    color: var(--text-color)
+
+}
